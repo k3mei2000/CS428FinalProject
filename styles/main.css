@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+#c {
+    width: 100% !important;
+    height: 100% !important;
+    display: block;
+}
